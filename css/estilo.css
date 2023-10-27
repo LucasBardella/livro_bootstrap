@@ -1,0 +1,34 @@
+.sombra{
+    text-shadow: 2px 2px 5px #6959CD;
+}
+
+.sombra2{
+    text-shadow: 2px 2px 5px #800000;
+}
+
+.aumentar_letra{
+   font-size: 2rem;
+}
+
+.fontemaior{
+    font-size:2rem;
+}
+
+.justificado{
+    text-align: justify;    
+}
+
+#sobre, #galeria{
+    margin-top: 2%;
+    margin-bottom: 2%;    
+}
+
+.espaco{
+    width: 99.8%;
+   
+} 
+
+.espacoabaixo{
+    margin-bottom: 2%;
+
+}
