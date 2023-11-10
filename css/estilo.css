@@ -37,7 +37,7 @@
     background-color: #55A603;
 }
 
-.fundobodylucas {
+main, body {
     background-color: #0D0D0D;
 }
 .textolucas{
@@ -59,15 +59,21 @@ h3{
 .imagem{
 width: 60%;
 }
-.fundofooterlucas{
-    background-color: #730202;
-}
+
 .midia{
     width: 15%;
 }
-.footer {
-    background-color: #317a76;
-    font-size: 1.3em;
-    text-align: center;
-    padding: 1%;
+
+footer {
+        background-color: #730202;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        width: 100%;
 }
+.escritafooter {
+    color: #fff;
+  }
+  h5 {
+    color: #ffffff;
+  }
