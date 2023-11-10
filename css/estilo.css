@@ -32,3 +32,42 @@
     margin-bottom: 2%;
 
 }
+
+.fundolucas {
+    background-color: #55A603;
+}
+
+.fundobodylucas {
+    background-color: #0D0D0D;
+}
+.textolucas{
+    color: #000000;
+}
+h1{
+    color: #ffffff;
+}
+
+p{
+    color: #ffffff;
+}
+a{
+    color: #ffffff;
+}
+h3{
+    color: #ffffff;
+}
+.imagem{
+width: 60%;
+}
+.fundofooterlucas{
+    background-color: #730202;
+}
+.midia{
+    width: 15%;
+}
+.footer {
+    background-color: #317a76;
+    font-size: 1.3em;
+    text-align: center;
+    padding: 1%;
+}
